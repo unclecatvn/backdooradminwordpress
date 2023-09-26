@@ -1,4 +1,4 @@
-# backdooradminwordpress
+# Code Backdoor Wordpress
 - Đây là dòng code backdoor admin wordpress, tôi không khuyến khích bạn làm trang wordpress của người khác. Tôi sẽ không chịu trách nhiệm nào việc bạn sử dụng mục đích không chính đáng.
 
 ```c
